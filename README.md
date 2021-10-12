@@ -6,11 +6,11 @@ Welcome to our garden! This is a learning group to discuss thought towards a gen
 This is still a topic for discussion, but this could mean any form of re-contextualizing a body of work, content, thought, experience from one medium to another. Working with the content and medium as a "ghostly collaborator" as we re-interpret and re-contextualize in our own practices.
 
 ## _*Agenda*_
-I'd love to have monthly or bi-weekly reading groups where we can discuss, share, and workshop ideas and topics to inform and enrich our creative practices. We can keep this as an open discussion as to facilitate other meetups/projects
+I'd love to have monthly or bi-weekly reading groups where we can discuss, share, and workshop ideas and topics to inform and enrich our creative practices. We can keep this as an open discussion as to facilitate other meetups/projects.
 
 ## _*Readings*_
 
-  - text generation
+  - text generations
   - oulipo
   - fluxus
   - N+7
